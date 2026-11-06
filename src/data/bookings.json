@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c7b08494-fe48-43a4-86e6-0cda84379310",
+    "clientName": "Federico",
+    "clientEmail": "test@test.com",
+    "date": "05/11/2026",
+    "time": "18:00",
+    "status": "active",
+    "services": [
+      {
+        "service": "8cb1486a-d1e4-4422-b791-a59d9bf3425e",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "b3c9e44c-fa28-48a9-bdbb-f3308b8b1aa1",
+    "clientName": "Federico R",
+    "clientEmail": "test@test.com",
+    "date": "05/11/2026",
+    "time": "18:00",
+    "status": "active",
+    "services": [
+      {
+        "service": "8cb1486a-d1e4-4422-b791-a59d9bf3425e",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "id": "5c2ae5d3-7140-47d0-9c78-071421713330",
+    "clientName": "User ",
+    "clientEmail": "user@test.com",
+    "date": "06/11/2026",
+    "time": "22:00",
+    "status": "active",
+    "services": [
+      {
+        "service": "718a8108-37f0-4065-b13c-070cd1878f46",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "30e6b5f2-67b5-4c70-80ea-0fafe3e572b1",
+    "clientName": "Alberto",
+    "clientEmail": "betito@test.com",
+    "date": "10/11/2027",
+    "time": "22:00",
+    "status": "active",
+    "services": [
+      {
+        "service": "718a8108-37f0-4065-b13c-070cd1878f46",
+        "quantity": 15
+      },
+      {
+        "service": "8cb1486a-d1e4-4422-b791-a59d9bf3425e",
+        "quantity": 4
+      }
+    ]
+  }
+]
